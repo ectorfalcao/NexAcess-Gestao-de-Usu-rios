@@ -30,9 +30,6 @@ Este projeto foi desenvolvido como uma atividade acadêmica para o curso de ADS,
 | **🛡️ Segurança Reforçada** | Implementação visual de 2FA (Autenticação de dois fatores) e modais de confirmação. |
 
 ---
-## 🗺️ Fluxo de Navegação e Arquitetura
-
-Para entender como o **NexAcess** organiza a jornada do administrador, veja o diagrama abaixo que ilustra a hierarquia das telas e o fluxo das principais tarefas (como a alteração de permissão e consulta de logs):
 
 ## 🗺️ Fluxo de Navegação e Operação
 
