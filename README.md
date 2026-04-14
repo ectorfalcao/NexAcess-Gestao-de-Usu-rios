@@ -67,8 +67,8 @@ graph TD
 
 Para atender ao perfil de "baixa tolerância a erros", foram aplicadas as seguintes estratégias:
 
-1.  **Diagrama de Herança Progressiva:** (Pág. 38) Uma visualização clara de como as permissões fluem do nível base até o administrativo, evitando confusão hierárquica.
-2.  **Prevenção de Erros Críticos:** (Pág. 32) A alteração de status ou nível exige um "Motivo da Alteração" obrigatório, garantindo que ações sensíveis sejam documentadas e pensadas.
+1.  **Diagrama de Herança Progressiva:** Uma visualização clara de como as permissões fluem do nível base até o administrativo, evitando confusão hierárquica.
+2.  **Prevenção de Erros Críticos:** A alteração de status ou nível exige um "Motivo da Alteração" obrigatório, garantindo que ações sensíveis sejam documentadas e pensadas.
 3.  **Feedback Instantâneo:** Modais de "Alteração salva com sucesso" confirmam o sucesso da operação, reduzindo a ansiedade do usuário.
 4.  **Hierarquia Visual:** Uso de cores distintas para status (Verde para Ativo, Vermelho para Suspenso/Inativo) para leitura rápida (Scanning).
 
